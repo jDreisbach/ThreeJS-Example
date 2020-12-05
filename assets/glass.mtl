@@ -1,0 +1,4 @@
+newmtl Glass_31dba20d-c091-4bb4-824a-73a05e61b1b8
+Kd -5.5, 1, 0
+d 0.3
+map_Kd glassTexture.png

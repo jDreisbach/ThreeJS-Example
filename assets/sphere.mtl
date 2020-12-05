@@ -1,0 +1,4 @@
+newmtl Blue To Pink_1b6688fd-8ff9-493f-9bcc-84b7c0f55357
+Kd 1.012, 0, 1.012
+d 1
+map_Kd sphereGradient.jpg
